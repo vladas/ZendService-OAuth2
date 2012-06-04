@@ -1,4 +1,4 @@
-ZendService\0Auth 2.0
+ZendService\OAuth 2.0
 =====================
 
 Installing
